@@ -1,5 +1,6 @@
 ---
 title: "github.io 시작"
+layout: post
 categories: Blog
 tags: [jekyll, github, blog]
 toc: true
