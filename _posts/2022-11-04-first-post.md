@@ -9,7 +9,7 @@ sidebar:
 # search: false
 ---
 
-**[공지사항]**[환경설정 등의 기능](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
+**[공지사항]** [환경설정 등의 기능](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
 {: .notice--danger}
 
 <div class="notice--success">
