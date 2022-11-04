@@ -8,7 +8,20 @@ sidebar:
     nav: "docs"
 # search: false
 ---
+
+**[공지사항]** [기능테스트](https://minkims.github.io/){: .notice--danger}
+
+<div class="notice--success">
+    <h4>Notice</h4>
+    <ul>
+        <li>notice1</li>
+        <li>notice2</li>
+    </ul>
+</div>
+
 # 테스트겸 작성하는 글
+
+<a href="https://www.youtube.com/playlist?list=PLIMb_GuNnFwfQBZQwD-vCZENL5YLDZekr">테디노트의 깃헙 블로그 만들기</a>를 보고 만듬
 
 ## 게시글작성시 알아둘점
 
