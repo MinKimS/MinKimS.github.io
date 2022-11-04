@@ -3,6 +3,7 @@ title: "github.io 시작"
 categories: Blog
 tags: [jekyll, github, blog]
 toc: true
+author_profile: false
 ---
 # 테스트겸 작성하는 글
 
