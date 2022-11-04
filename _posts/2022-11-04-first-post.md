@@ -15,7 +15,7 @@ tags: jekyll
 github 블로그 만들기 영상에서 **typora**를 사용하라고 나오는데 typora가 유료가 되어 사용할 수 없게 되었다.
 
 이미지 확인
-![img](img/2022-11-04-first-post/img01.png)
+![img](assets/img/2022-11-04-first-post/img01.png)
 
 ![SlimeRancher-2022-09-26-09-46-32-14](https://user-images.githubusercontent.com/68219918/200024409-4a003f01-d079-4f4b-ad3c-e4b40a882587.png)
 
