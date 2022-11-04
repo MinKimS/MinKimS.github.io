@@ -1,7 +1,7 @@
 ---
 title: "github.io 시작"
 categories: Blog
-tags: jekyll
+tags: [jekyll, github, blog]
 ---
 테스트겸 작성하는 글
 
