@@ -19,6 +19,8 @@ sidebar:
     </ul>
 </div>
 
+[버튼](https://www.youtube.com/watch?v=ioaHhmm5Sss){: .btn .btn--inverse}
+
 # 테스트겸 작성하는 글
 
 <a href="https://www.youtube.com/playlist?list=PLIMb_GuNnFwfQBZQwD-vCZENL5YLDZekr">테디노트의 깃헙 블로그 만들기</a>를 보고 만듬
