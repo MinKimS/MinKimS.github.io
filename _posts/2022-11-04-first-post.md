@@ -9,7 +9,7 @@ sidebar:
 # search: false
 ---
 
-**[공지사항]** [기능테스트](https://minkims.github.io/){: .notice--danger}
+**[공지사항]**[환경설정 등의 기능](https://mmistakes.github.io/minimal-mistakes/docs/helpers/){: .notice--danger}
 
 <div class="notice--success">
     <h4>Notice</h4>
@@ -36,6 +36,9 @@ github 블로그 만들기 영상에서 **typora**를 사용하라고 나오는�
 # 게시글 테스트
 ## 이미지
 ![img](/assets/img/2022-11-04-first-post/img01.png)
+
+## 유튜브
+{% include video id="bHvT0SNITuU" provider="youtube" %}
 
 ```
 문제해결
