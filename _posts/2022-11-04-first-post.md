@@ -4,6 +4,8 @@ categories: Blog
 tags: [jekyll, github, blog]
 toc: true
 author_profile: false
+sidebar:
+    nav: "docs"
 ---
 # 테스트겸 작성하는 글
 
