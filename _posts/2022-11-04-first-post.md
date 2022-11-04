@@ -4,6 +4,7 @@ updated: 2022-11-04
 categories: Blog
 tags: jekyll
 ---
+테스트겸 작성하는 글
 
 게시글작성시 알아둘점
 
@@ -14,4 +15,8 @@ tags: jekyll
 github 블로그 만들기 영상에서 **typora**를 사용하라고 나오는데 typora가 유료가 되어 사용할 수 없게 되었다.
 
 이미지 확인
-![SlimeRancherPlayScreenshot](./img/SlimeRancher-2022-09-26-09-46-32-14)
+![SlimeRancherPlayScreenshot](./img/2022-11-04-first-post/SlimeRancher-2022-09-26-09-46-32-14.png)
+
+```
+🤨 페이지 업데이트 엄청 오래걸림
+```
