@@ -1,6 +1,6 @@
 ---
 title: "github.io 시작"
-updated: 2022-11-04
+updated: 2022-11-04 00:20:00
 categories: Blog
 tags: jekyll
 ---
