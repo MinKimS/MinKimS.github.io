@@ -1,13 +1,12 @@
 ---
 title: "웹페이지 로그인"
-categories: WebProgramming
+categories: web_programming
 tags: [php, login, a_major_class]
 toc: true
 author_profile: false
 sidebar:
     nav: "docs"
 ---
-# 웹페이지 로그인
 **[전공수업]** 웹프로그래밍 수업 복습
 {: .notice--danger}
 
