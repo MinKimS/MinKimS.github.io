@@ -2,7 +2,7 @@
 title: "github.io 시작"
 categories: Blog
 tags: [jekyll, github, blog]
-toc: false
+toc: true
 author_profile: false
 sidebar:
     nav: "docs"
