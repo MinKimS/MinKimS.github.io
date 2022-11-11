@@ -2,7 +2,7 @@
 title: "github.io 시작"
 categories: Blog
 tags: [jekyll, github, blog]
-toc: true
+toc: false
 author_profile: false
 sidebar:
     nav: "docs"
@@ -36,14 +36,14 @@ github 블로그 만들기 영상에서 **typora**를 사용하라고 나오는�
 
 # 게시글 테스트
 ## 이미지
-![img](/assets/img/2022-11-04-first-post/img01.png)
+![img](/assets/images/2022-11-04-first-post/img01.png)
 
 ## 유튜브
 {% include video id="bHvT0SNITuU" provider="youtube" %}
 
 ```
 문제해결
-/assets/img/...로 해결
+/assets/images/...로 해결
 ```
 
 ```
