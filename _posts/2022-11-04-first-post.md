@@ -1,8 +1,8 @@
 ---
 title: "github.io 시작"
-categories: Blog
+categories: blog
 tags: [jekyll, github, blog]
-toc: true
+toc: false
 author_profile: false
 sidebar:
     nav: "docs"

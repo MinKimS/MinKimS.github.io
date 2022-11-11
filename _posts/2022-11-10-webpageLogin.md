@@ -1,6 +1,6 @@
 ---
 title: "웹페이지 로그인"
-categories: Web_programming
+categories: web_programming
 tags: [php, login, a_major_class]
 toc: true
 author_profile: false
