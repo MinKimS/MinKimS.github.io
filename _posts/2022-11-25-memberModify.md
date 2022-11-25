@@ -1,5 +1,5 @@
 ---
-title: "웹페이지 로그인"
+title: "웹페이지 회원 정보 수정"
 categories: web_programming
 tags: [a_major_class, modify, php]
 toc: true
@@ -7,7 +7,6 @@ author_profile: false
 sidebar:
     nav: "docs"
 ---
-# 웹페이지 회원 정보 수정
 **[전공수업]** 웹프로그래밍 수업 복습
 {: .notice--danger}
 
